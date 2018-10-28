@@ -1,5 +1,5 @@
 //import java.util.Scanner;
-
+//hehe
 public class ArtificialInt
 {
 	
